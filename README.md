@@ -1,5 +1,5 @@
-# EXP NO 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
-
+# EX 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
+## Date: 04/08/23
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 
